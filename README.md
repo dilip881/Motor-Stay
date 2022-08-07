@@ -1,6 +1,5 @@
-Motor-Stay (Parking Space Finder)
 
-# Motor-Stay
+# Motor-Stay (Parking Space Finder)
 
 ![Project 1](https://user-images.githubusercontent.com/76056833/183288927-570a892d-35ed-4fc6-b829-279ff61ea2e1.jpg)
 
